@@ -43,8 +43,8 @@
 |=======
 
 
-[width="15%"]
-|=======
+[width="50%"]
+|=============================
 | kde-unstable-x86_64-build 
 | multilib-testing-build 
 | testing-x86_64-build
@@ -53,4 +53,4 @@
 | gnome-unstable-x86_64-build  
 | multilib-staging-build     
 | staging-x86_64-build
-|=======
+|=============================
