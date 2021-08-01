@@ -12,10 +12,23 @@
 
 [width="50%",cols=">s,^m,e",frame="topbot",options=""]
 |==========================
-|      1+|Columns 2 and 3
+|      2+|Columns 2 and 3
 |1       |Item 1  |Item 1
 |2       |Item 2  |Item 2
 |3       |Item 3  |Item 3
 |4       |Item 4  |Item 4
 |footer 1|footer 2|footer 3
+|==========================
+
+
+
+
+[width="50%",cols=">s,^m,e",frame="topbot",options=""]
+|==========================
+|Columns 2 and 3
+|Item 1  
+|Item 2  
+|Item 3  
+|Item 4  
+|footer 2
 |==========================
